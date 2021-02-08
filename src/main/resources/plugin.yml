@@ -1,0 +1,11 @@
+name: CuboidXariyx
+version: ${project.version}
+main: com.xariyx.Main
+api-version: 1.16
+authors: [Xariyx]
+description: Pugin created to learn new things
+commands:
+  cuboid:
+    description: [Jebac ci stara]
+    aliases: [cuboid, cub, cubo]
+    usage: /<cuboid> <new,edit,list,info,delete>
